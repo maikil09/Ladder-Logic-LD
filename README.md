@@ -8,4 +8,4 @@ En este repositorio se incluyen los archivos de programación, diagramas lógico
 - **HMI en CODESYS**: simulación del proceso de control de niveles del tanque.  
 - **Validación en OpenPLC**: conexión y pruebas con equipo real.  
 - **Reporte en Wiki**: documentación completa de diseño, implementación y pruebas.  
-- **Video demo (10 min)**: presentación de la solución en acción.  
+- **Video**: presentación de la solución en acción.  
